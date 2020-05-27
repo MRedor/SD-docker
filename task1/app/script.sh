@@ -1,0 +1,1 @@
+while true; do bash "/var/app/kek.sh"; sleep 1; done
